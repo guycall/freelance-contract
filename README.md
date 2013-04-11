@@ -14,16 +14,9 @@ XXX (the "Customer") is hiring XXX (the "Developer") for PROJECT_NAME_OR_DESCRIP
 
 ###What do both parties agree to do?
 
-The Customer confirms they have the power and ability to enter into this contract on behalf of their company or organization. The Cusotmer agrees to provide the Developer with everything that is needed to complete the project including text, images and other information. The Customer agrees to review the work, provide feedback and sign-off approval in a timely manner. The Customer agrees to stick to the payment schedule set out at the end of this contract.
+The Customer confirms they have the power and ability to enter into this contract on behalf of their company or organization. The Customer agrees to provide the Developer with everything that is needed to complete the project including text, images and other information. The Customer agrees to review the work, provide feedback and sign-off approval in a timely manner. The Customer agrees to stick to the payment schedule set out at the end of this contract.
 
-The Developer confirms they have the experience and ability to perform the services needed and will carry them out in a professional and timely manner. The Developer will endeavor to meet all the deadlines but isnot responsible for a missed launch date or a deadline if the Cusomter is late in supplying materials or have not approved or signed off our work on-time at any stage. The Developer will maintain the confidentiality of any information that you give us.
-
-###Details
-
-What we need from you
-Below is a list of items we’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but we will let you know as soon as we’re able if we’ve forgotten something we need.
-
-* [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
+The Developer confirms they have the experience and ability to perform the services needed and will carry them out in a professional and timely manner. The Developer will endeavor to meet all the deadlines but isnot responsible for a missed launch date or a deadline if the Customer is late in supplying materials or have not approved or signed off our work on-time at any stage. The Developer will maintain the confidentiality of any information provided.
 
 ####Browser Compatibility
 The Developer agrees to test the code in IE7+ and the latest releases of Firefox, Safari, and Chrome.

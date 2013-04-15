@@ -39,7 +39,7 @@ All meetings should be scheduled a minimum of two business days in advance and a
 
 ###Legal stuff
 
-The Developer can't be liable to the Customer or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if you have advised us of the possibilities of such damages.
+The Developer can't be liable to the Customer or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if the Customer has advised of the possibilities of such damages.
 
 If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
 

@@ -49,7 +49,7 @@ Both parties guarantee that any elements of text, graphics, photos, designs, tra
 
 When the Developer receives final payment, copyright is automatically assigned as follows:
 
-The Customer will own all graphics and other visual elements created for the Project. The Developer will provided a copy of the repository, all source code and any additonal files required by the project. The Developer will grant full rights for the source code to the Customer.
+The Customer will own all graphics and other visual elements created for the Project. The Developer will provided a copy of the repository, all source code and any additional files required by the project. The Developer will grant full rights for the source code to the Customer.
 
 
 ####Payment Schedule
